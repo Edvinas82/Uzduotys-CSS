@@ -1,0 +1,10 @@
+p {
+    .juodasr-taskuotas-remelis
+    /* border: 1px doted black; */
+        border-wdth: 3px;
+        border-style: dotted;
+        border-color: black;
+    
+
+        margin: 30px 70px 30px 30px;
+}
