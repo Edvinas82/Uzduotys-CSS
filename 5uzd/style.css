@@ -1,0 +1,16 @@
+.geltona{
+    background-color: yellow;
+}
+
+.juodas-remelis{
+    /*border 1px solid black; */
+        border-width: 3px;
+        border-style: solid;
+        border-color: black;
+
+
+}
+#pastraipa1 {
+    padding: 10px;
+    margin: 30px;
+}

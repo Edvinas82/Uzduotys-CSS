@@ -1,17 +1,19 @@
-style {iskirtine-pastraipa
+.isskirtine-pastraipa
+style {
     font-size: 24px;
     
-.
-    rgb(30,40,120);
+
 }
 
-.taskuotas-geltonas-remelis{
-    /*  border: 3px dotted yellow;
+.geltonas-taskuotas-remelis{
+    /*  border: 3px dotted yellow */
+        border-width: 3px;
+        border-style: dotted;
+        border-color: yellow;
 }
 
 #pastraipa1 {
     padding-left: 30px;
-    border: 2px solid green;
 }
 
 #pastraipa2 {
