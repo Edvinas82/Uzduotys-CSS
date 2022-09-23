@@ -1,13 +1,6 @@
-.geltonas-taskuotas-remelis{
-    /*  border: 3px dotted yellow */
-        border-width: 3px;
-        border-style: dotted;
-        border-color: yellow;
-}
-
 #pastraipa1 {
     padding-left: 30px;
-    border: 5px solid green;
+    border: 2px solid green;
 }
 
 #pastraipa2 {
