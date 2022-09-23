@@ -1,10 +1,10 @@
-div{
-    margin: 3px 9px 7px 0;
-    padding: 7px 5px 5px 7px;
-    border: 3px solid yellow;
-}
+p {
+    .juodasr-taskuotas-remelis
+    /* border: 1px doted black; */
+        border-wdth: 3px;
+        border-style: dotted;
+        border-color: black;
+    
 
-#pastraipa1 {
-    margin: 0px 0px 0px 0px;
-    border-style: 1px dashed black;
+        margin: 10px 100px 10px 10px;
 }
